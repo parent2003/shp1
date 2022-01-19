@@ -7,11 +7,6 @@ click==8.0.3
 colorama==0.4.4
 distlib==0.3.4
 dj-database-url==0.5.0
-Django==4.0.1
-django-crispy-forms==1.13.0
-django-filter==21.1
-django-heroku==0.3.1
-django-storages==1.12.3
 filelock==3.4.2
 Flask==2.0.2
 flask-http-response==0.0.1.0
